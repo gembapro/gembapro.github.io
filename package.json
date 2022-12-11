@@ -1,0 +1,22 @@
+{
+  "name": "public-demos",
+  "version": "1.0.0",
+  "description": "Static Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gembapro/gembapro.github.io.git"
+  },
+  "author": "Artemiy Vereshchinskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gembapro/gembapro.github.io/issues"
+  },
+  "homepage": "https://github.com/gembapro/gembapro.github.io#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
